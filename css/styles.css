@@ -1,0 +1,92 @@
+#main {
+  background-color: white;
+  font-family: calibri;
+}
+
+#grey-background {
+  background-color: #EEEEEE;
+  border-radius: 5px;
+}
+
+#title,
+#subtitle {
+  text-align: center;
+}
+
+#title {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+
+#subtitle {
+  font-size: 1em;
+  display: block;
+  padding-top: 0px;
+  margin-top: -15px;
+}
+
+#img-div {
+  background-color: white;
+  border-radius: 5px;
+  display: block;
+  margin: 0px 15px;
+  padding: 20px 0px 1px 0px;
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#timeline-title {
+  text-align: center;
+}
+
+#tribute-info {
+  text-align: left;
+  max-width: 550px;
+  margin: 0 auto 0 auto;
+}
+
+.bio-dates {
+  font-weight: bold;
+}
+
+hr {
+  margin-top: 45px;
+}
+
+#quote {
+  font-style: italic;
+  text-align: center;
+  font-size: 1.1em;
+  display: block;
+  padding-top: 15px;
+}
+
+footer {
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  margin-top: 25px;
+  padding-bottom: 5px;
+}
+
+a {
+  color: #477cFF;
+}
+
+#tribute-link:hover {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
